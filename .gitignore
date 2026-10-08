@@ -1,0 +1,11 @@
+# Local build products
+*.exe
+*.pdb
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local settings
+settings.ini
